@@ -1,0 +1,28 @@
+# ninja log v5
+0	8634	0	/home/ajaypendkar/Desktop/classes code/class1_ui_29_03/linux/flutter/ephemeral/libflutter_linux_gtk.so	3dfd28b4f9dae998
+0	8634	0	/home/ajaypendkar/Desktop/classes code/class1_ui_29_03/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	3dfd28b4f9dae998
+0	8634	0	/home/ajaypendkar/Desktop/classes code/class1_ui_29_03/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	3dfd28b4f9dae998
+0	8634	0	/home/ajaypendkar/Desktop/classes code/class1_ui_29_03/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	3dfd28b4f9dae998
+0	8634	0	/home/ajaypendkar/Desktop/classes code/class1_ui_29_03/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	3dfd28b4f9dae998
+0	8634	0	/home/ajaypendkar/Desktop/classes code/class1_ui_29_03/linux/flutter/ephemeral/flutter_linux/fl_engine.h	3dfd28b4f9dae998
+0	8634	0	/home/ajaypendkar/Desktop/classes code/class1_ui_29_03/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	3dfd28b4f9dae998
+0	8634	0	/home/ajaypendkar/Desktop/classes code/class1_ui_29_03/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	3dfd28b4f9dae998
+0	8634	0	/home/ajaypendkar/Desktop/classes code/class1_ui_29_03/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	3dfd28b4f9dae998
+0	8634	0	/home/ajaypendkar/Desktop/classes code/class1_ui_29_03/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	3dfd28b4f9dae998
+0	8634	0	/home/ajaypendkar/Desktop/classes code/class1_ui_29_03/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	3dfd28b4f9dae998
+0	8634	0	/home/ajaypendkar/Desktop/classes code/class1_ui_29_03/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	3dfd28b4f9dae998
+0	8634	0	/home/ajaypendkar/Desktop/classes code/class1_ui_29_03/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	3dfd28b4f9dae998
+0	8634	0	/home/ajaypendkar/Desktop/classes code/class1_ui_29_03/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	3dfd28b4f9dae998
+0	8634	0	/home/ajaypendkar/Desktop/classes code/class1_ui_29_03/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	3dfd28b4f9dae998
+0	8634	0	/home/ajaypendkar/Desktop/classes code/class1_ui_29_03/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	3dfd28b4f9dae998
+0	8634	0	/home/ajaypendkar/Desktop/classes code/class1_ui_29_03/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	3dfd28b4f9dae998
+0	8634	0	/home/ajaypendkar/Desktop/classes code/class1_ui_29_03/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	3dfd28b4f9dae998
+0	8634	0	/home/ajaypendkar/Desktop/classes code/class1_ui_29_03/linux/flutter/ephemeral/flutter_linux/fl_value.h	3dfd28b4f9dae998
+0	8634	0	/home/ajaypendkar/Desktop/classes code/class1_ui_29_03/linux/flutter/ephemeral/flutter_linux/fl_view.h	3dfd28b4f9dae998
+0	8634	0	/home/ajaypendkar/Desktop/classes code/class1_ui_29_03/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	3dfd28b4f9dae998
+0	8634	0	flutter/_phony_	3dfd28b4f9dae998
+8635	9312	1681032750450457183	CMakeFiles/class1_ui_29_03.dir/flutter/generated_plugin_registrant.cc.o	9f39f630363d4a51
+8635	9380	1681032750522453594	CMakeFiles/class1_ui_29_03.dir/main.cc.o	f2258d0891d40a6b
+8635	9432	1681032750570451201	CMakeFiles/class1_ui_29_03.dir/my_application.cc.o	393699084956e4fb
+9432	9577	1681032750722443625	intermediates_do_not_run/class1_ui_29_03	5d1de0b9bc4aebd1
+9577	9653	0	CMakeFiles/install.util	53f138f3c114398e
